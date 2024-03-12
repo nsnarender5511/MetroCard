@@ -1,3 +1,5 @@
+package com.example.geektrust;
+
 public class MetroCorp {
 
     private static MetroCorp INSTANCE;

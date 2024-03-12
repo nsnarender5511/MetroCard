@@ -1,3 +1,5 @@
+package com.example.geektrust;
+
 public class MetroCard {
     String cardNo;
     int balance;

@@ -1,3 +1,5 @@
+package com.example.geektrust;
+
 public enum PasangerType {
     ADULT(200),
     SENIOR_CITIZEN(100),
